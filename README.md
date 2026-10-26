@@ -1,85 +1,84 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Sanupa Gunarathne — Software Engineering Undergraduate. Build, experiment, learn." />
+</p>
 
-# Hey, I'm Sanupa 👋
+<p align="center">
+  <strong>Full-stack development &nbsp;·&nbsp; Java & OOP &nbsp;·&nbsp; Exploring IoT + ML</strong>
+</p>
 
-**Software Engineering Undergraduate · Sri Lanka**
+<p align="center">
+  <a href="https://github.com/sanuoa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sanupa-gunarathne-a0a5852a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sanupar07@gmail.com"><img src="https://img.shields.io/badge/Email-E8590C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Sanupa" /></a>
+</p>
 
-Building web applications. Learning backend design. Exploring what sensors and data can tell us.
-
-[GitHub](https://github.com/sanuoa) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/sanupa-gunarathne-a0a5852a6/) &nbsp; / &nbsp; [Email](mailto:sanupar07@gmail.com)
-
-<img src="https://img.shields.io/badge/BUILDING_WITH-Java_%C2%B7_React_%C2%B7_Spring_Boot-E8590C?style=flat-square&amp;labelColor=24292f" alt="Building with Java, React, and Spring Boot" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanuoa&amp;label=Profile%20views&amp;color=e8590c&amp;style=flat-square" alt="Profile views" />
+</p>
 
 ## A little about me
 
-I'm **Sanupa Gunarathne**, a second-year BSc (Hons) Software Engineering undergraduate at **IIT Sri Lanka**, on the **University of Westminster** partner programme.
+🎓 Second-year **Software Engineering undergraduate** at **IIT Sri Lanka**, on the **University of Westminster** partner programme.
 
-My projects span campus bookings, browser-based data tools, and environmental awareness. I'm developing my full-stack skills with **Java, Spring Boot, and React**, learning how OOP, data modelling, and testing fit into real applications. I'm still exploring specialisations within software engineering.
+💻 Building with **Java, Spring Boot, and React** — learning through practical projects and experimentation.
 
-## Featured projects
+🏎️ Exploring **karting telemetry, IoT sensors, and ML-based analysis** with my team.
 
-### [Campus Slot ↗](https://github.com/sanuoa/campus-slot)
+🌱 Currently learning **ASP.NET Core** and strengthening my **OOP and full-stack foundations**.
 
-A campus facility booking application with student verification, one-hour reservations, and administrator controls. An independent student project, not an official IIT service.
+## My toolkit
 
-**Java · Spring Boot · React · PostgreSQL · Spring Security · Flyway**
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="44" height="44" alt="Java" title="Java" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" title="HTML5" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" title="CSS3" />
+</p>
 
-The interesting part: coordinating competing bookings with transaction locks and database constraints, while applying daily limits in Sri Lanka time. Includes domain, database integration, and browser test suites.
+<p align="center"><strong>Frameworks &amp; database</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="React" title="React" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="44" height="44" alt="Spring Boot" title="Spring Boot" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
+</p>
 
-### [Instagram Follow Checker ↗](https://github.com/sanuoa/instagram-follow-checker)
+<p align="center"><strong>Development &amp; testing</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" title="Maven" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" title="Vite" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit" title="JUnit" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" height="40" alt="Playwright" title="Playwright" />
+</p>
 
-A local-first dashboard that compares an Instagram JSON export to find mutual and non-reciprocal follows, with search, filtering, and CSV export.
+<p align="center">
+  <strong>Currently learning</strong><br /><br />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="Learning ASP.NET Core" title="Learning ASP.NET Core" /><br />
+  <sub>ASP.NET Core &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Machine Learning</sub>
+</p>
 
-**JavaScript · React · Vite · Vitest · Playwright · Manifest V3**
+## GitHub at a glance
 
-The interesting part: validating split export files, deduplicating accounts, and handling stale file reads without uploading the data. Also packaged as a browser extension; it compares imported snapshots, not live account activity.
-
-### [Blue Renaissance ↗](https://github.com/sanuoa/Blue-Renaissance)
-
-A team coursework website that turns ocean conservation and SDG 14 into an interactive educational experience.
-
-**HTML · CSS · JavaScript**
-
-The interesting part: responsive layouts, interactive gallery views, and browser-native scroll interactions. My documented coursework contribution covers the home page, gallery, and a coral-reef content page.
-
-**Also exploring Java OOP:** [Products API](https://github.com/sanuoa/products-api) — a coursework REST API using an in-memory product collection, digital/physical product subclasses, and customer/address composition.
-
-## Technologies in my projects
-
-| Area | Used in the repositories above |
-| :--- | :--- |
-| **Languages** | Java · JavaScript · HTML · CSS · SQL |
-| **Frontend** | React · Vite · Responsive CSS |
-| **Backend** | Spring Boot · Spring Security · Spring Data JPA / Hibernate · REST APIs |
-| **Data** | PostgreSQL · Flyway · JSON export processing |
-| **Testing & tools** | JUnit · MockMvc · Vitest · Playwright · Maven · Git · GitHub Actions |
-
-## On my workbench
-
-- **Full-stack development:** deepening my understanding of React interfaces, Spring Boot APIs, authentication, and database-backed workflows.
-- **Java & OOP:** practising encapsulation, inheritance, interfaces, composition, and dependency injection through application code.
-- **Further learning:** exploring ASP.NET Core, IoT, and machine learning. My karting team project's direction is sensor-based telemetry and ML-based analysis for practical driver insights.
-
-### A question I'm exploring
-
-> **Code → sensors → data → insights**
->
-> How can a karting session become useful feedback for a driver?
-
-## Beyond the screen
-
-Motorcycle rides, scouting, and tennis. I'm interested in collaborating on student web projects and practical IoT experiments.
+<p align="center">
+  <a href="https://github.com/sanuoa?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api?username=sanuoa&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=fb923c&amp;icon_color=fb923c&amp;text_color=c9d1d9&amp;hide_rank=true" width="470" alt="Sanupa's GitHub statistics" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sanuoa?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sanuoa&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=fb923c&amp;text_color=c9d1d9" width="400" alt="Most used languages across Sanupa's public repositories" />
+  </a><br />
+  <sub>Language breakdown reflects repository code, not proficiency.</sub>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>Code → sensors → data → insights</strong><br />
+  <sub>Outside the screen: motorcycle rides · scouting · tennis</sub>
+</p>
 
-**Let's connect**
-
-[GitHub](https://github.com/sanuoa) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/sanupa-gunarathne-a0a5852a6/) &nbsp; · &nbsp; [sanupar07@gmail.com](mailto:sanupar07@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://github.com/sanuoa?tab=repositories"><strong>Explore what I'm building ↗</strong></a>
+</p>

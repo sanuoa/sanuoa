@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sanupa Gunarathne — Software Engineering Undergraduate</title>
+  <desc id="desc">A dark developer-inspired banner with warm orange accents. Build, experiment, learn. Based in Sri Lanka.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#151b24"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#fb923c"/>
+      <stop offset="1" stop-color="#f43f5e"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#26303e" stroke-width="0.6"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect x="750" width="450" height="320" fill="url(#grid)" opacity="0.7"/>
+    <circle cx="1108" cy="158" r="176" fill="none" stroke="#fb923c" stroke-opacity="0.09" stroke-width="48"/>
+    <circle cx="1108" cy="158" r="111" fill="none" stroke="#fb923c" stroke-opacity="0.18"/>
+    <circle cx="1108" cy="158" r="70" fill="none" stroke="#fb923c" stroke-opacity="0.28"/>
+    <path d="M934 158h77m194 0h-30M1108-20v67m0 222v71" stroke="#fb923c" stroke-opacity="0.3"/>
+    <circle cx="1108" cy="47" r="5" fill="#fb923c"/>
+    <circle cx="997" cy="158" r="4" fill="#f43f5e"/>
+    <rect x="48" y="40" width="28" height="5" rx="2.5" fill="url(#accent)"/>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+      <text x="88" y="48" fill="#a5aebb" font-size="12" letter-spacing="2.2">BUILD / EXPERIMENT / LEARN</text>
+      <text x="48" y="103" fill="#fb923c" font-size="16">hello, world. I'm</text>
+      <text x="46" y="167" fill="#f0f3f6" font-size="54" font-weight="700" letter-spacing="-2">Sanupa Gunarathne<tspan fill="#fb923c">.</tspan></text>
+      <text x="49" y="207" fill="#a5aebb" font-size="17">Software Engineering Undergraduate</text>
+      <text x="49" y="267" fill="#a5aebb" font-size="12" letter-spacing="1.1">SRI LANKA <tspan fill="#596474"> / </tspan> JAVA + REACT <tspan fill="#596474"> / </tspan> CURIOUS BY DEFAULT</text>
+      <text x="1068" y="177" fill="#fb923c" font-size="48" font-weight="700">&lt;/&gt;</text>
+    </g>
+    <rect y="316" width="1200" height="4" fill="url(#accent)"/>
+  </g>
+</svg>
